@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Guessing Numbers</string>
+    <string name="aboutus">We are a team of students that made this app as a project at school. The app was based on a simple idea, but we wanted to make as much out of it as possible.
+        \n\n
+        The music was picked from Free Music Archive (FMA), and was made by Lee Rosevere from the album Synthcronicity. The name of the song is Star Song.
+    </string>
+    <string name="facebook_app_id">914806671963758</string>
+    <string name="drawer_open">drawer open</string>
+    <string name="drawer_close">drawer close</string>
+    <string-array name="options">
+        <item>Hall of Fame</item>
+        <item>About Us</item>
+    </string-array>
+</resources>
